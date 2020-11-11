@@ -1,11 +1,11 @@
 # 2pjproject
 
-## dummy video device
+## 1. dummy video device
 1. Colorbar generator  
 2. AVI player virtual device  
 
 
-## audio device
+## 2. customing audio device
 
 ### alsa_dev
 1. pb_thread_func  
